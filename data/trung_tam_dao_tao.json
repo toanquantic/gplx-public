@@ -1,0 +1,21 @@
+{
+  "ghi_chu": "Trung tâm có nhãn \"Tài trợ\" trả phí để hiện ở đầu danh sách, có nút gọi, nhắn Zalo, gửi email; app không xếp hạng hay đánh giá chất lượng trung tâm nào.",
+  "lien_he_dang_tin": {
+    "tieu_de": "Muốn trung tâm của bạn hiện ở đây?",
+    "noi_dung": "Liên hệ để đưa trung tâm lên đầu danh sách, kèm nút gọi, nhắn Zalo, email và website cho học viên đang ôn thi bằng lái.",
+    "dien_thoai": "0935180738",
+    "zalo": "0935180738",
+    "email": "toanquantic@gmail.com"
+  },
+  "trung_tam": [
+    {
+      "ten": "Thầy Ngoan - Đào Tạo Lái Xe Chuyên Nghiệp",
+      "tinh": "TP. Hồ Chí Minh",
+      "dia_chi": "Phường Bình Phú, TP. Hồ Chí Minh",
+      "dien_thoai": "0797151924",
+      "zalo": "0797151924",
+      "website": "https://www.facebook.com/ngoan.nguyen.964884",
+      "muc": 2
+    }
+  ]
+}
