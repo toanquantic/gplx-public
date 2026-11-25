@@ -38,14 +38,6 @@
         {"id": "BiESujQ25FA", "tieu_de": "Học thực hành hạng B (số sàn): cách thực hiện bài thi 2 km đường trường, Thầy Tâm"},
         {"id": "snW5DJZyVC0", "tieu_de": "Hướng dẫn thi sát hạch lái xe phần thi đường trường"}
       ]
-    },
-    {
-      "ten": "Ô tô: mô phỏng tình huống giao thông",
-      "hang": ["B", "C1", "C", "D1", "D2", "D", "BE", "C1E", "CE", "D1E", "D2E", "DE"],
-      "video": [
-        {"id": "GgkqQ7GosxY", "tieu_de": "Học nhanh toàn bộ 120 tình huống mô phỏng (bản 2.0.0) trong một video, Thầy Chiến"},
-        {"id": "SMdO88mvTuY", "tieu_de": "Mẹo căn mô phỏng 120 tình huống trong một video, Thầy Tâm"}
-      ]
     }
   ]
 }
